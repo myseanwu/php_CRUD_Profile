@@ -33,4 +33,11 @@ Attempt to go to
 
 
 # Profile add
+
+You can also add images with simple HTML tags:
+
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="Screen Shot 2020-07-22 at 3.11.05 PM.png" width="350" alt="accessibility text">
+</p>
 ![Screenshot] Screen Shot 2020-07-22 at 3.11.05 PM.png
