@@ -33,4 +33,4 @@ Attempt to go to
 
 
 # Profile add
-![Screenshot](Screen Shot 2020-07-22 at 3.11.05 PM.png)
+![Screenshot] Screen Shot 2020-07-22 at 3.11.05 PM.png
