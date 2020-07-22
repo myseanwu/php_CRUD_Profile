@@ -1,7 +1,7 @@
 # php_CRUD_Profile
 
 This php_CRUD_Profile project is to create a php web application for resumes/profiles. 
-There will be a login page and detail list page.
+There will be a login, add, edit, view, and logout page.
 
 Users could Create, Edit, and Delete the profiles in the index.php.
 
